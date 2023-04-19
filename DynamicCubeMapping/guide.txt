@@ -1,0 +1,3 @@
+In the SIA project, we use this program to create a skybox using cube maping.
+
+'W','A','S','D' to move around, press left mouse button to rotate the camera.
